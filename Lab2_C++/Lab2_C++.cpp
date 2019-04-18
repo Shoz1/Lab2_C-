@@ -135,4 +135,5 @@ void DisplayStudent(Student Person)
 	cout << "Данные о Учебе: " << endl;
 	cout << "Место Учебы: " << Person.HEI << " " << "Специальность: " << " " << "Курс: " << Person.Course << " " << "Группа: " << Person.Group << " " << "Средний бал: " << Person.AvrMark;
 	cin.get();
+
 }
